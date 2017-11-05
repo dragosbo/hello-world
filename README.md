@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi Humans and Bots
+
+This is teh RAPID space where magic is applied to data
